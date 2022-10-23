@@ -1,5 +1,5 @@
 COMPONENT = "cart"
-ENV = dev
+ENV = "dev"
 INSTANCES = {
   SPOT = {
     instance_count = 1
